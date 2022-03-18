@@ -1,4 +1,4 @@
-# Analysis of the BA1 BA2 co-infection study
+# Analysis of the BA1 BA2 competitive transmission study
 
 We aim to determine the following points by the NGS data: 1. whether co-infection exist; 2. whether reassortment exist.
 
